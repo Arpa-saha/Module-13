@@ -1,0 +1,29 @@
+.panda-bg-info{
+    background-color: rgb(226, 202, 206);
+}
+.categories img{
+    width: 100px;
+}
+.panda-bg-warning{
+    background-color: plum;
+}
+.panda-bg-danger{
+    background-color: rgb(236, 171, 171);
+}
+.panda-bg-primary{
+    background-color: slateblue;
+}
+.panda-btn-buy{
+    color: whitesmoke;
+    background-color: rgb(196, 39, 65);
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.panda-btn-submit{
+    color: whitesmoke;
+    background-color: rgb(212, 58, 148);
+    border-radius: 10px;
+    padding: 10px 25px;
+    border: none;
+}
